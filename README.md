@@ -1,3 +1,5 @@
 - Hi, I’m @odinsontm
 
-I am a Computer Science Student with 5+ years of development practice. 
+I am a Computer Science Graduate with interest in frontend devlopment.
+
+Feel welcome to browse my portfolio at: https://odinsontm.github.io/
